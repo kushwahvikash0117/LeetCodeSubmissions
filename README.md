@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0002-add-two-numbers) |
 | [0258-add-digits](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2235-add-two-integers) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Array
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory
