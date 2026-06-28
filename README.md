@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
+| [0771-jewels-and-stones](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1512-number-of-good-pairs) |
 ## Linked List
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0412-fizz-buzz) |
+| [0771-jewels-and-stones](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Array
