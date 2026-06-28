@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0002-add-two-numbers) |
+| [0258-add-digits](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2652-sum-multiples) |
 ## Stack
@@ -127,6 +128,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
