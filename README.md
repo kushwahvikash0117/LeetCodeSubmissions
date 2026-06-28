@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2235-add-two-integers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2652-sum-multiples) |
 ## Stack
 |  |
