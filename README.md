@@ -155,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1672-richest-customer-wealth) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
