@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0002-add-two-numbers) |
 | [2235-add-two-integers](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2235-add-two-integers) |
+| [2652-sum-multiples](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2652-sum-multiples) |
 ## Stack
 |  |
 | ------- |
