@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
