@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
