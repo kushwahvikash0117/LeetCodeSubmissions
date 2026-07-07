@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0138-copy-list-with-random-pointer) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1672-richest-customer-wealth) |
 ## Tree
 |  |
