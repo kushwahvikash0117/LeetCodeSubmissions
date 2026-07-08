@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
