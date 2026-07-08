@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0075-sort-colors) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
