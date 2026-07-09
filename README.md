@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0771-jewels-and-stones) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0229-majority-element-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
