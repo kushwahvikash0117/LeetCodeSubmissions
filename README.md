@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1512-number-of-good-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2651-calculate-delayed-arrival-time](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2652-sum-multiples) |
+| [2965-find-missing-and-repeated-values](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2965-find-missing-and-repeated-values](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1672-richest-customer-wealth) |
+| [2965-find-missing-and-repeated-values](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Tree
 |  |
 | ------- |
