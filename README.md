@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0771-jewels-and-stones) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
@@ -268,12 +271,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0169-majority-element) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
