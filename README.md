@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0287-find-the-duplicate-number) |
 ## Depth-First Search
 |  |
 | ------- |
