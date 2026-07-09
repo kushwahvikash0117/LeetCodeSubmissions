@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0258-add-digits) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -348,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0173-binary-search-tree-iterator) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
