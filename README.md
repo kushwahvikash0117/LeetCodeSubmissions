@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
