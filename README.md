@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0322-coin-change) |
+| [0455-assign-cookies](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -385,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0493-reverse-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
