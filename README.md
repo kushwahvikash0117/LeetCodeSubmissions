@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0322-coin-change) |
 ## Binary Search Tree
 |  |
 | ------- |
