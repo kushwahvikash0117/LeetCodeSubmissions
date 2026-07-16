@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0168-excel-sheet-column-title) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/kushwahvikash0117/LeetCodeSubmissions/tree/master/0412-fizz-buzz) |
